@@ -55,7 +55,7 @@ footer{
   content: " ";
   clear: both;
   height: 0;
-  font-size: 0;
+  font-size: 0; 
 }
 .name{
 	color: #F15B31;
